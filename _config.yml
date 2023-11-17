@@ -2,29 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Neumorphism
+title: Penaz Mohammad
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Resume for Penaz Mohammad
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/neumorphism"
+baseurl: "/resume"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Neumorphism
+username: Penaz Mohammad
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Jekyll Theme
+typing_text: Resume
 # email: Your E-Mail address for the email button.
-email: email@example.com
+email: ppsmohammad@gmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: longpdo
-codepen_username: exampleUser
-dev_username: exampleUser
-linkedin_username: exampleUser
-twitter_username: exampleUser
+github_username: ppsmohammad
+codepen_username: 
+dev_username: 
+linkedin_username: Penaz Parveen Sultana Mohammad
+twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.  Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. If you like this theme and want to use it for yourself, checkout the source code and the documentation at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
+about_me_description: Hey there, I'm Parveen, a PhD student in Electrical Engineering at USF, diving deep into the fascinating world of biomedical. With nearly 5 years of tinkering with fNIRS experiments, m currently on a mission to unravel the mysteries of depth resolved cerebral blood flow using diffuse correlation spectroscopy devices. I've got a soft spot for history, embracing my inner geek, and I can binge-watch documentaries like it's an Olympic sport.  Colleagues describe me as resilient and open to trying new things. While I might not claim to be a genius, once I'm hooked on something, I like to see it through.Numbers have a special place in my heart; I revel in math problems like they're puzzles waiting to be solved.Did you know that hoods have Arabic roots, or that Adidas and Puma share a fraternal bond? I thrive on uncovering quirky facts like these. When I'm not in the lab, you'll find me cheering enthusiastically at live theaters or mastering the art of the violin. Oh, and I'm also a proud cat mom, ask me about my feline friend if you ever catch me in person. Life's a stage, and I'm here to live out every fantasy!
 
 # SKILLS SECTION
 # show_skills_card:
@@ -43,6 +43,7 @@ about_me_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, s
 show_skills_card: true
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
+skills_description: Biomedicl optics, Diffuse optics, Optical Alignment, Control systems, Instrumentation, Signal processing, Data processing, fNIRS  
 
 # TIMELINE SECTION
 # show_timeline_card:
